@@ -1,0 +1,131 @@
+
+p{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 64px;
+    color: deeppink;
+    margin: 0px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-left: 625px;
+    user-select: none;
+}
+body{
+    background-color: black;
+}
+.a{
+    margin-top: 50px;
+    width: 600px;
+    padding: 25px;
+    box-sizing: border-box;
+    height: 250px;
+    font-family: cursive;
+    font-size: 24px;
+    font-weight: 500;
+    color: deeppink;
+    border:5px solid rgb(53, 238, 245);
+    border-radius: 2%;
+}
+#b,#c{
+   margin:10px;
+   height: 40px;
+   width: 80px;
+   background-color: chartreuse;
+   font-family: cursive;
+   font-weight: bold;
+   font-size: 20px;
+   color:rgb(255, 20, 63);
+   border: 3px solid rgb(245, 239, 53);
+}
+.n{
+  padding: 30px;
+  margin-top: 50px;
+  width: 800px;
+  height: 430px;
+  border:5px solid rgb(42, 245, 231);
+  border-radius: 3%;
+  font-family: cursive;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgb(161, 20, 255);
+}
+#new{
+display: none;
+margin-left:37%;
+}
+.ok{
+font-size: 30px;
+color:#0de9bf;
+user-select: none;
+}
+.emo{
+font-size: 80px;
+display: inline;
+margin-left: 350px;
+cursor: pointer;
+}
+.pq{
+font-size: 40px;
+color: goldenrod;
+margin-bottom: 20px;
+}
+body{
+position: absolute;
+}
+#add{
+position: relative;
+right: -596px;
+top: -527px;
+user-select: none;
+}
+.slider{
+width: 200px;
+height: 20px;
+margin:10px 40px;
+}
+.bar{
+color: coral;
+font-size: 20px;
+font-family: cursive;
+margin: 0;
+margin-left: 40px;
+margin-bottom: 20px;
+user-select: none;
+}
+#sen{
+display: none;
+}
+#ab,#lm,#xy{
+color: rgb(222, 21, 21);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+font-weight: bold;
+}
+#ion{
+margin-top: 30px;  
+height: 40px;
+width: 120px; 
+color: rgb(221, 221, 21);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+font-weight: bold;
+background-color: blueviolet;
+}
+#qw{
+display: flex;
+justify-content: center;
+}
+.hj{
+color: cornsilk;
+padding: 20px;
+font-size: 56px;
+}
+.link{
+color: burlywood;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
